@@ -624,6 +624,7 @@ text-decoration: none;
 
 .block__header {
     text-align: center;
+    margin-right: 4rem;
 }
 
 .block__heading {
